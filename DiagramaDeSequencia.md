@@ -23,5 +23,4 @@ PA-->>P: Envia a confirmação para a plataforma
 P-->>U: Plataforma envia a confirmação para o usuario
 U->>PA: Usuario escolhe a forma de pagamento
 PA-->>U: Confirmação do pagamento
-
-
+B->>U: Biblioteca envia o jogo ao usuario para a instalação
